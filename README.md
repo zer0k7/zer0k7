@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f3460&height=200&section=header&text=zer0k7&fontSize=80&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=————————————&descAlignY=60&descSize=18&descColor=444444" width="100%"/>
-
 </div>
 
 <br/>
@@ -58,9 +56,9 @@ most won't.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/zer0k7/zer0k7/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zer0k7/zer0k7/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://github.com/zer0k7/zer0k7/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/zer0k7/zer0k7/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zer0k7/zer0k7/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/zer0k7/zer0k7/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
 
