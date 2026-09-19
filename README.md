@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zer0k7&show_icons=true&theme=transparent&hide_border=true&title_color=e94560&icon_color=e94560&text_color=888888&bg_color=0d1117&hide_title=true&count_private=true" height="150"/>
+  
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=zer0k7&theme=transparent&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
 </div>
